@@ -1,0 +1,28 @@
+# NAME: Emby_Proxy
+# AUTHOR: lanmaohh
+# UPDATED: 2023-06-16
+# 仅个人及桃子私服群友使用，发现分享，暴露各大公益服线路者，删库跑路。
+# > 桃子私服
+DOMAIN-SUFFIX,embymv.me,Emby
+# > 桃子公益服
+DOMAIN-SUFFIX,embymv.tk,Emby
+# > 不给看
+DOMAIN-SUFFIX,c.emby.pro,Emby
+# > 卷毛鼠
+DOMAIN-SUFFIX,cf.jmsooo.com,Emby
+# > 剧狗
+DOMAIN-SUFFIX,ju.dog,Emby
+# > Misty
+DOMAIN-SUFFIX,misty.ltd,Emby
+# > 私人影视
+DOMAIN-SUFFIX,emby.agon.cf,Emby
+# > NMemby
+DOMAIN-SUFFIX,film.goodisp.org,Emby
+# > StaiCat
+DOMAIN-SUFFIX,flare.starcat.eu.org,Emby
+# > Magic Cloud魔法
+DOMAIN-SUFFIX,cf.freetz.top,Emby
+# > hxd
+DOMAIN-SUFFIX,bili.bili.rip,Emby
+# > 卡戎
+DOMAIN-SUFFIX,play.charontv.com,Emby
